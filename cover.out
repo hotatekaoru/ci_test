@@ -1,0 +1,6 @@
+mode: set
+ci_test/main.go:8.13,11.2 2 0
+ci_test/main.go:13.29,17.2 3 1
+ci_test/main.go:19.35,21.16 2 1
+ci_test/main.go:24.2,24.10 1 1
+ci_test/main.go:21.16,22.13 1 1
